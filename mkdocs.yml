@@ -1,8 +1,8 @@
 site_name: Robutler Platform
 site_description: API client and tools for the Robutler ecosystem - Build AI agents with OpenAI-compatible endpoints
 site_url: https://docs.robutler.ai/
-repo_url: https://github.com/robutlerai/robutler-docs
-repo_name: robutlerai/robutler-docs
+# repo_url: https://github.com/robutlerai/robutler-docs
+# repo_name: robutlerai/robutler-docs
 copyright: Copyright &copy; 2025 Robutler
 
 theme:
