@@ -85,18 +85,6 @@
          <lastmod>2025-08-26</lastmod>
     </url>
     <url>
-         <loc>https://docs.robutler.ai/connect/agent/</loc>
-         <lastmod>2025-08-26</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.robutler.ai/connect/assistant/</loc>
-         <lastmod>2025-08-26</lastmod>
-    </url>
-    <url>
-         <loc>https://docs.robutler.ai/connect/robutler-agent/</loc>
-         <lastmod>2025-08-26</lastmod>
-    </url>
-    <url>
          <loc>https://docs.robutler.ai/developers/contributing/</loc>
          <lastmod>2025-08-26</lastmod>
     </url>
@@ -290,6 +278,22 @@
     </url>
     <url>
          <loc>https://docs.robutler.ai/skills/platform/payments/</loc>
+         <lastmod>2025-08-26</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.robutler.ai/user/</loc>
+         <lastmod>2025-08-26</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.robutler.ai/user/agent/</loc>
+         <lastmod>2025-08-26</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.robutler.ai/user/assistant/</loc>
+         <lastmod>2025-08-26</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.robutler.ai/user/robutler-agent/</loc>
          <lastmod>2025-08-26</lastmod>
     </url>
     <url>

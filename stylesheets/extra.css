@@ -80,7 +80,7 @@
 }
 
 .md-nav__title {
-  display: none;
+  /* display: none; */
   color: #000;
   font-weight: 600;
 }
@@ -130,7 +130,7 @@
 }
 
 .md-footer {
-  display: none;
+  margin-top: 40px;
 }
 
 .md-sidebar {
@@ -209,13 +209,6 @@
   color: #000 !important;
 }
 
-/* Make default mobile navigation back button visible */
-@media screen and (max-width: 76.1875em) {
-  /* Show the default navigation title (back button) */
-  .md-nav__item--section > .md-nav[data-md-level="1"] > .md-nav__title {
-    display: block !important;
-  }
-}
 
 
 /* Make logo visible */
@@ -268,4 +261,9 @@ label[for="__drawer"].md-header__button.md-icon {
   width: auto !important;
   object-fit: contain !important;
   object-position: center !important;
+}
+
+.md-content__inner {
+  max-width: 736px; 
+  margin: 0 auto;
 }
