@@ -69,6 +69,10 @@
   font-weight: 600;
 }
 
+.md-typeset h1 {
+  padding-top: 0.5rem;
+}
+
 .md-typeset h1 code {
   color: #000;
   padding: 0;
@@ -261,6 +265,25 @@ label[for="__drawer"].md-header__button.md-icon {
   width: auto !important;
   object-fit: contain !important;
   object-position: center !important;
+}
+
+/* Punchy quote styling */
+.md-typeset blockquote {
+  border-left: 4px solid #F0ED00 !important;
+  background-color: #fafafa !important;
+  margin: 2rem 0 !important;
+  padding: 1.5rem 2rem !important;
+  border-radius: 0 8px 8px 0 !important;
+  font-size: 1.1rem !important;
+  font-weight: 500 !important;
+  font-style: italic !important;
+  color: #000 !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+.md-typeset blockquote p {
+  margin: 0 !important;
+  line-height: 1.6 !important;
 }
 
 .md-content__inner {

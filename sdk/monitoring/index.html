@@ -2778,10 +2778,10 @@
 
 
 <h1 id="monitoring-observability">Monitoring &amp; Observability</h1>
-<blockquote>
-<p><strong>⚠️ Beta Software Notice</strong><br />
-Robutler is currently in <strong>beta stage</strong>. Monitoring features are actively being developed and may change. Test thoroughly before deploying to production environments.</p>
-</blockquote>
+<div class="admonition warning">
+<p class="admonition-title">Beta Software Notice</p>
+<p>Robutler is currently in <strong>beta stage</strong>. While the core functionality is stable and actively used, APIs and features may change. We recommend testing thoroughly before deploying to critical environments.</p>
+</div>
 <h2 id="overview">Overview</h2>
 <p>Robutler V2 provides comprehensive monitoring and observability features for production deployments. This includes metrics collection, health checks, performance monitoring, and integration with popular observability platforms.</p>
 <p>LLM and tool usage are recorded in <code>context.usage</code> and can be exported to your analytics pipeline (e.g., for cost dashboards). Payment charging reads from this same source, so you get both operational and financial visibility.</p>
